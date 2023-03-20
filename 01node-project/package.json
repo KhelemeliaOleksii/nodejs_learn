@@ -1,0 +1,17 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "by Ulbi.TV",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./index.js"
+  },
+  "author": "OleksiiKhelemelia <OleksiiKhel@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21"
+  }
+}
